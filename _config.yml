@@ -3,7 +3,7 @@ title: Triyana Nurhidayah
 description: 'Mahasiswa'
 url: 'http://thomas.zuehlke.family'
 baseurl: ''
-profilepic: '/images/bbb.jpg'
+profilepic: '/images/bbb.JPG'
 bkimage: '/images/mat.jpg'
 google_analytics: UA-XXXXXX-X
 font_awesome: 'https://kit.fontawesome.com/{{ site.font_awesome }}'
