@@ -1,22 +1,20 @@
 # Site settings
-title: Thomas Zühlke
-description: 'Business Card Page'
+title: Triyana Nurhidayah
+description: 'Mahasiswa'
 url: 'http://thomas.zuehlke.family'
 baseurl: ''
-profilepic: '/images/tzuehlke.jpg'
-bkimage: '/images/bk1.jpg'
+profilepic: '/images/bbb.jpg'
+bkimage: '/images/mat.jpg'
 google_analytics: UA-XXXXXX-X
 font_awesome: 'https://kit.fontawesome.com/{{ site.font_awesome }}'
 
 author:
-  name: 'Thomas Zühlke'
-  email: info@thomas-zuehlke.de
-  twitter_username: thomzuehlke
+  name: 'Triyana Nurhidayah'
+  email: triana.nurhidayah12@gmail.com
+  twitter_username: triananrdyh
 #  facebook_username: joshgerdes
-  github_username:  tzuehlke
-  linkedin_username:  thomas-zühlke-889182165
-  meetup_name: Azure-Meetup-Rostock-MV
-
+  github_username:  triana12
+  
 # Build settings
 destination: _site
 markdown: kramdown
