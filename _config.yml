@@ -6,7 +6,7 @@ baseurl: ''
 profilepic: '/images/tzuehlke.jpg'
 bkimage: '/images/bk1.jpg'
 google_analytics: UA-XXXXXX-X
-font_awesome: 'XXXXXXXXXX.js'
+font_awesome: 'https://kit.fontawesome.com/{{ site.font_awesome }}'
 
 author:
   name: 'Thomas Zühlke'
