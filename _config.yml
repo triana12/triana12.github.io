@@ -1,12 +1,12 @@
 # Site settings
 title: Triyana Nurhidayah
 description: 'Mahasiswa'
-url: 'http://thomas.zuehlke.family'
+#url: 'http://thomas.zuehlke.family'
 baseurl: ''
 profilepic: '/images/d.jpg'
 bkimage: '/images/mat.jpg'
 google_analytics: UA-XXXXXX-X
-font_awesome: 'https://kit.fontawesome.com/{{ site.font_awesome }}'
+font_awesome: 'XXXXXX.js'
 
 author:
   name: 'Triyana Nurhidayah'
